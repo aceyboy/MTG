@@ -1,0 +1,152 @@
+#home, #setWinLose, #randomGame {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+#home {
+  background-image: url('night.jpg');
+  background-position-y: -152px;
+  background-position-x: -166px;
+}
+#setWinLose {
+  background-image: url('tealwall.jpg');
+}
+#randomGame {
+  background-image: url('http://3.bp.blogspot.com/-9hY_FEgO3mg/Um5BsGdv5NI/AAAAAAAAQrs/VggV7B66644/s1600/LeavingTheForest02.jpg');
+  background-size: cover;
+  background-position-x: -311px;
+}
+#home th, #home td {
+  padding: 3px 10px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+#header {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+#header h1 {
+  font-size: 65px;
+}
+#nav {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px 50px;
+  border-radius: 10px 10px 0 0;
+}
+#home #nav {
+  background-color: rgba(122, 0, 92, 0.7);
+}
+#setWinLose #nav {
+  background-color: rgba(103, 159, 210, 0.7);
+}
+#randomGame #nav {
+  background-color: rgba(0, 125, 28, 0.7);
+}
+#nav a {
+  text-decoration: none;
+  font-size: 29px;
+  font-weight: bold;
+  padding: 0px 10px;
+}
+#home #nav a {
+  color: #DD64BF;
+  border-right: 5px solid #BC008D;
+}
+#setWinLose #nav a {
+  color: #043A6B;
+  border-right: 5px solid #043A6B;
+}
+#randomGame #nav a {
+  color: #002D1C;
+  border-right: 5px solid #007D1C;
+}
+#home #nav a:first-child {
+  border-left: 5px solid #BC008D;
+}
+#setWinLose #nav a:first-child {
+  border-left: 5px solid #043A6B;
+}
+#randomGame #nav a:first-child {
+  border-left: 5px solid #007D1C;
+}
+#main {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  padding: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#home #main{
+  background-image: url('http://s.cghub.com/files/Image/303001-304000/303003/046_max.jpg');
+}
+#setWinLose #main{
+  background-image: url('http://media.wizards.com/images/magic/daily/li/li202_mind.jpg');
+  min-height: 442px;
+  background-position: center;
+}
+#randomGame #main{
+  background-image: url('http://media.wizards.com/images/magic/daily/li/li195_tru.jpg');
+  min-height: 402px;
+}
+#home h1 {
+  color: #DD64BF;
+}
+#setWinLose h1 {
+  color: #679FD2;
+}
+#randomGame h1 {
+  color: #002D1C;
+}
+#home h2 {
+  color: #7A005C;
+}
+#setWinLose h4 {
+  font-size: 30px;
+}
+#home table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+#setWinLose #insideWinLose {
+  width: 300px;
+  margin: 0 auto;
+  background-color: rgba(64, 141, 210, 0.3);
+  padding: 10px 0;
+}
+#setWinLose select {
+  width: 145px;
+  font-size: 20px;
+}
+#setWinLose #formSubWinLose {
+  margin-top: 28px;
+}
+#setWinLose #formSubWinLose input {
+  width: 145px;
+  font-size: 20px;
+}
+#randomGame #picks h4 {
+  font-size: 30px;
+}
+#randomGame #picks p {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 200;
+  font-size: 26px;
+}
+#randomGame #picks {
+  background-color: rgba(101, 224, 128, 0.3);
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #002D1C;
+}
+.tableHeader {
+  background-color: #BC008D;
+}
+.odd {
+  background-color: #DD64BF;
+}
+.even {
+  background-color: #DD37B4;
+}
