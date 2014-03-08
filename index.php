@@ -43,6 +43,7 @@
     <title>Magic</title>
     <link type='text/css' rel='stylesheet' href='main.css'></link>
     <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,900' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <script src='http://code.jquery.com/jquery-1.11.0.min.js' type='text/javascript'></script>
     <script src='main.js' type='text/javascript'></script>
   </head>
