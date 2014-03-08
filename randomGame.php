@@ -3,6 +3,7 @@
   <head>
     <title>Magic</title>
     <link type='text/css' rel='stylesheet' href='main.css'></link>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,900' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300' rel='stylesheet' type='text/css'>
     <script src='http://code.jquery.com/jquery-1.11.0.min.js' type='text/javascript'></script>
